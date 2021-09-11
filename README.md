@@ -7,7 +7,7 @@
 
 Boilerplate for building a simple VanillaJS application.
 
-## Installation
+### Installation
 
 ```bash
 git clone https://github.com/gintooooonic/boilerplate-vanillajs.git
@@ -15,7 +15,7 @@ cd boilerplate-vanillajs
 npm install
 ```
 
-## Build
+### Build
 
 ```bash
 npm run build
